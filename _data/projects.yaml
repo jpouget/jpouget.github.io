@@ -1,20 +1,16 @@
-- title: "DECIBELmap: Using multimodal single-nucleus sequencing data to map cell-type-specific enhancer-target gene pairs with important neurodevelopmental functions"
-  subtitle: "DLPFC EnhanCers fInetuning Brain-gene Expression across the Lifespan (DECIBELmap)"
-  group: featured
-  image: images/DECIBELmap.jpg
-  description: >
-    Our DECIBELmap project integrates multimodal single-nucleus sequencing data (sn-RNAseq + sn-ATACseq measured simultaneously in the same individual nuclei) from postmortem neurotypical DLPFC samples spanning neurodevelopmental timepoints from fetus to adulthood to identify cell-type-specific enhancer–gene links relevant to neurodevelopment.  
-    Our maps illuminate how enhancers finetune brain gene expression in neuronal and glial cell types across the lifespan, and hold strong potential to reveal molecular pathways underlying psychosis and related psychiatric disorders.  
-    _Image adapted from Crocker *et al.*, *Nature Genetics* (2016)._
-  tags:
-    - resource
-
 - title: "Genetic architecture of schizophrenia"
   subtitle: 
-  group: featured
   image: images/schizophrenia.jpg
   description: >
-    A core aspect of our research program investigates the genetic architecture of schizophrenia. Using large-scale human genetic studies from international consortia such as the Psychiatric Genomics Consortium, our work applies Mendelian randomization [(Prins *et al.*, *PLoS Med* 2016)](https://doi.org/10.1371/journal.pmed.1001955), polygenic risk scoring [(Pouget *et al.*, *Pers Med Psychiatry* 2021; Lu *et al.*, *Psychol Med* 2015)], LD Score regression [(Pouget *et al.*, *Hum Mol Genet* 2019)], and statistical fine-mapping [(Pouget *et al.*, *Mol Psychiatry* 2024)] to disentangle shared and distinct genetic influences between schizophrenia and other psychiatric and immune-related disorders.
+    A core aspect of our research program investigates the genetic architecture of schizophrenia. Using large-scale human genetic studies from international consortia such as the Psychiatric Genomics Consortium, our work applies Mendelian randomization [(Prins et al., PLoS Med 2016)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001976), polygenic risk scoring [(Pouget et al., Pers Med Psychiatry 2021](https://www.sciencedirect.com/science/article/abs/pii/S2468171721000132)[; Lu et al., Psychol Med 2015)](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/genetic-risk-scores-and-family-history-as-predictors-of-schizophrenia-in-nordic-registers/EF316E5689C94D19D140638B108508D7), LD Score regression [(Pouget et al., Hum Mol Genet 2019)](https://academic.oup.com/hmg/article/28/20/3498/5520272), and statistical fine-mapping [(Pouget et al., Mol Psychiatry 2025)](https://www.nature.com/articles/s41380-024-02703-5) to disentangle shared and distinct genetic influences between schizophrenia and other psychiatric and immune-related disorders.
+
+- title: "Mapping cell-type-specific enhancer-target gene pairs with important neurodevelopmental functions"
+  subtitle: "Dorsolateral prefrontal cortex EnhanCers fInetuning Brain gene Expression during neurodeveLopment (DECIBELmap)"
+  image: images/DECIBELmap.jpg
+  description: >
+    Our DECIBELmap project integrates multimodal single-nucleus sequencing data (sn-RNAseq + sn-ATACseq measured simultaneously in the same individual nuclei) from postmortem neurotypical DLPFC spanning neurodevelopmental timepoints from fetus to adulthood to identify cell-type-specific enhancer–gene links relevant to neurodevelopment.  
+    Our maps illuminate how enhancers finetune brain gene expression in neuronal and glial cell types across the lifespan, and hold strong potential to reveal molecular pathways underlying psychosis and related psychiatric disorders.  
+    _Image adapted from Crocker et al., Nature Genetics (2016)._
 
 - title: "IMAGINED Study"
   subtitle: "Integrating Medical And Genetic INformation to re-Envision Depression (IMAGINED)"
