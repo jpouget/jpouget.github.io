@@ -1,5 +1,5 @@
-- title: DECIBELmap: Using multimodal single-nucleus sequencing data to map cell-type-specific enhancer-target gene pairs with important neurodevelopmental functions
-  subtitle: DLPFC EnhanCers fInetuning Brain-gene Expression across the Lifespan (DECIBELmap)
+- title: "DECIBELmap: Using multimodal single-nucleus sequencing data to map cell-type-specific enhancer-target gene pairs with important neurodevelopmental functions"
+  subtitle: "DLPFC EnhanCers fInetuning Brain-gene Expression across the Lifespan (DECIBELmap)"
   group: featured
   image: images/DECIBELmap.jpg
   description: >
@@ -9,15 +9,15 @@
   tags:
     - resource
 
-- title: Genetic architecture of schizophrenia
-  subtitle: a subtitle
+- title: "Genetic architecture of schizophrenia"
+  subtitle: 
   group: featured
   image: images/schizophrenia.jpg
   description: >
     A core aspect of our research program investigates the genetic architecture of schizophrenia. Using large-scale human genetic studies from international consortia such as the Psychiatric Genomics Consortium, our work applies Mendelian randomization [(Prins *et al.*, *PLoS Med* 2016)](https://doi.org/10.1371/journal.pmed.1001955), polygenic risk scoring [(Pouget *et al.*, *Pers Med Psychiatry* 2021; Lu *et al.*, *Psychol Med* 2015)], LD Score regression [(Pouget *et al.*, *Hum Mol Genet* 2019)], and statistical fine-mapping [(Pouget *et al.*, *Mol Psychiatry* 2024)] to disentangle shared and distinct genetic influences between schizophrenia and other psychiatric and immune-related disorders.
 
-- title: IMAGINED Study
-  subtitle: Integrating Medical And Genetic INformation to re-Envision Depression (IMAGINED)
+- title: "IMAGINED Study"
+  subtitle: "Integrating Medical And Genetic INformation to re-Envision Depression (IMAGINED)"
   image: images/IMAGINED-logo.jpg
   link: https://www.camh.ca/en/science-and-research/research-connect/integrating-medical-and-genetic-information-to-re-envision-depression-study
   description: >
