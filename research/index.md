@@ -20,7 +20,7 @@ We are deeply committed to building a collaborative, supportive, and inclusive l
 
 Our team brings together people who are curious, kind, and highly motivated to advance our understanding of psychiatric disorders using multimodal genomic data. Experience in programming, computational biology, genomics, and/or biostatistics research, including analysis of sequencing data, are assets but above all we value creativity, collaboration, and a passion for discovery.
 
-If this sounds like you, please email your application to Dr. Jennie Pouget (jennie.pouget@camh.ca) with subject line “Postdoctoral Fellow Application – Pouget Lab” and include the following in your application as a single PDF file:
+If this sounds like you, please email your application to Dr. Jennie Pouget (jennie.pouget@camh.ca) with subject line “Joining the Pouget Lab” and include the following in your application as a single PDF file:
 1.	Cover letter (career background, research interests/training goals, preferred start date)
 2.	CV
 3.	1-2 representative papers or preprints
@@ -31,6 +31,10 @@ If this sounds like you, please email your application to Dr. Jennie Pouget (jen
 ## Highlighted
 
 {% include citation.html lookup="Fine-mapping the CYP2A6 regional association with nicotine metabolism among African American smokers" style="rich" %}
+
+{% include citation.html lookup="Cross-disorder analysis of schizophrenia and 19 immune-mediated diseases identifies shared genetic risk." style="rich" %}
+
+{% include citation.html lookup="A method to decipher pleiotropy by detecting underlying heterogeneity driven by hidden subgroups applied to autoimmune and neuropsychiatric diseases." style="rich" %}
 
 {% include section.html %}
 
