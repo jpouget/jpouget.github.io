@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:41465535
+  title: 'Molecular Signatures of Early-Onset Bipolar Disorder and Schizophrenia:
+    Transcriptomic and Machine-Learning Insights into Calcium and cAMP Signaling,
+    Including Sex-Specific Patterns.'
+  authors:
+  - Sara Sadat Afjeh
+  - Sohom Dey
+  - Daniel Kiss
+  - Marcos Sanches
+  - Fernanda Dos Santos
+  - Jennie G Pouget
+  - Niki Akbarian
+  - Shreejoy Tripathy
+  - "Vanessa F Gon\xE7alves"
+  - James L Kennedy
+  publisher: International journal of molecular sciences
+  date: '2025-12-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41465535
+  term: Pouget, JG[Author]
+  jennie-pouget: true
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:39708390
   title: Association between maternal schizophrenia and risk of serious asthma exacerbations
     in childhood.
