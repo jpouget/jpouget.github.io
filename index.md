@@ -5,6 +5,9 @@
 
 The Pouget Lab uses cutting-edge computational genomics to uncover how genetic variation shapes brain development and vulnerability to psychiatric disorders. By integrating multiomic data from the brain, our team aims to pinpoint the molecular mechanisms underlying psychosis and translate these discoveries into earlier, more personalized interventions for youth mental health.
 
+We are based at the Centre for Addiction and Mental Health (CAMH), Canada's largest mental health teaching hospital and one of the world's leading research centres in its field.  CAMH is a fully affiliated teaching hospital and research institute of the University of Toronto. 
+
+
 {% include section.html %}
 
 ## Highlights
