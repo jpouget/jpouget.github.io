@@ -12,7 +12,7 @@ We are based in Toronto at the Centre for Addiction and Mental Health (CAMH), Ca
 
 
 
-[![Join us]({{ '/images/join-us.jpg' | relative_url }})](mailto:jennie.pouget@camh.ca?subject=Joining%20the%20Pouget%20Lab)
+[![Join us]({{ '/images/join-us-rainbow.jpg' | relative_url }})](mailto:jennie.pouget@camh.ca?subject=Joining%20the%20Pouget%20Lab)
 
 We are actively recruiting graduate students, postdoctoral research fellows, and research analysts to join our group.
 
@@ -48,7 +48,7 @@ If this sounds like you, please email your application to Dr. Jennie Pouget (jen
 
 {%
   include feature.html
-  image="images/genetics-icon.jpg"
+  image="images/genetics-rainbow-icon.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -71,7 +71,7 @@ If this sounds like you, please email your application to Dr. Jennie Pouget (jen
 
 {%
   include feature.html
-  image="images/projects-icon.jpg"
+  image="images/projects-rainbow-icon.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -96,7 +96,7 @@ If this sounds like you, please email your application to Dr. Jennie Pouget (jen
 
 {%
   include feature.html
-  image="images/team-icon.jpg"
+  image="images/team-rainbow-icon.jpg"
   link="team"
   title="Our Team"
   text=text
