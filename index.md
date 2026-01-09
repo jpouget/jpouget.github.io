@@ -71,7 +71,7 @@ If this sounds like you, please email your application to Dr. Jennie Pouget (jen
 
 {%
   include feature.html
-  image="images/projects-rainbow-icon.png"
+  image="images/project-rainbow-icon.png"
   link="projects"
   title="Our Projects"
   flip=true
