@@ -26,7 +26,7 @@ The Pouget Lab uses cutting-edge computational genomics to uncover how genetic v
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/genetics-icon.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ The Pouget Lab uses cutting-edge computational genomics to uncover how genetic v
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects-icon.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ The Pouget Lab uses cutting-edge computational genomics to uncover how genetic v
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team-icon.jpg"
   link="team"
   title="Our Team"
   text=text
