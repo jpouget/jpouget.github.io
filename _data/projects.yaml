@@ -4,7 +4,7 @@
   description: >
     A core aspect of our research program investigates the genetic architecture of schizophrenia. Using large-scale human genetic studies from international consortia such as the Psychiatric Genomics Consortium, our work applies Mendelian randomization [(Prins et al., PLoS Med 2016)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001976), polygenic risk scoring [(Pouget et al., Pers Med Psychiatry 2021](https://www.sciencedirect.com/science/article/abs/pii/S2468171721000132)[; Lu et al., Psychol Med 2015)](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/genetic-risk-scores-and-family-history-as-predictors-of-schizophrenia-in-nordic-registers/EF316E5689C94D19D140638B108508D7), LD Score regression [(Pouget et al., Hum Mol Genet 2019)](https://academic.oup.com/hmg/article/28/20/3498/5520272), and statistical fine-mapping [(Pouget et al., Mol Psychiatry 2025)](https://www.nature.com/articles/s41380-024-02703-5) to disentangle shared and distinct genetic influences between schizophrenia and other psychiatric and immune-related disorders.
 
-- title: "Mapping cell-type-specific enhancer-target gene pairs with important neurodevelopmental functions"
+- title: "Cell-type-specific enhancer-target gene mapping"
   subtitle: 
   image: images/DECIBELmap.jpg
   description: >
