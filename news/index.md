@@ -2,20 +2,19 @@
 title: News
 nav:
   order: 5
+  tooltip: Lab news and updates
 ---
 
-# News
+# {% include icon.html icon="fa-solid fa-newspaper" %}News
 
-{% assign sorted_posts = site.posts | sort: "date" | reverse %}
+Lab updates including awards, publications, new team members, and other milestones.
 
-{% for post in sorted_posts %}
+{% include section.html %}
 
-## [{{ post.title }}]({{ post.url | relative_url }})
+{% include search-box.html %}
 
-*{{ post.date | date: "%B %d, %Y" }}*
+{% include tags.html tags=site.tags %}
 
-{{ post.excerpt }}
+{% include search-info.html %}
 
----
-
-{% endfor %}
+{% include list.html data="posts" component="post-excerpt" %}
