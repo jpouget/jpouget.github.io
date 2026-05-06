@@ -1,5 +1,5 @@
 ---
-name: Maddie Fellows
+name: Madeleine Fellows
 image: images/maddie-headshot.jpg
 description: Research Assistant
 role: programmer
