@@ -1,6 +1,6 @@
 ---
 name: Ayaan Ahmed
-image: images/ayaan-ahmed-headshot.jpg
+image: images/ayaan-ahmed-headshot.JPEG
 description: Undergraduate Student
 role: programmer
 links:
