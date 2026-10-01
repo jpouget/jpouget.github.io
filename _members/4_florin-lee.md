@@ -2,7 +2,7 @@
 name: Florin Lee
 image: images/florin-lee-headshot.jpg
 description: Master's Student
-role: programmer
+role: phd
 links:
   email: florin.lee@camh.ca
 ---
