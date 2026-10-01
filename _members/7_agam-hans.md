@@ -2,7 +2,7 @@
 name: Agam Hans
 image: images/agam-hans-headshot.jpg
 description: Undergraduate Student
-role: programmer
+role: undergrad
 links:
   email: hansa6@mcmaster.ca
 ---
