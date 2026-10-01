@@ -2,7 +2,7 @@
 name: Ayaan Ahmed
 image: images/ayaan-headshot.JPEG
 description: Undergraduate Student
-role: undergrad
+role: programmer
 links:
   email: ahmea172@mcmaster.ca
 ---
