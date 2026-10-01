@@ -142,25 +142,6 @@
   jennie-pouget: true
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:37802914
-  title: 'CYP2A6 associates with respiratory disease risk and younger age of diagnosis:
-    a phenome-wide association Mendelian Randomization study.'
-  authors:
-  - Haidy Giratallah
-  - Meghan J Chenoweth
-  - Jennie G Pouget
-  - Ahmed El-Boraie
-  - Alaa Alsaafin
-  - Caryn Lerman
-  - Jo Knight
-  - Rachel F Tyndale
-  publisher: Human molecular genetics
-  date: '2024-01-07'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/37802914
-  term: Pouget, JG[Author]
-  jennie-pouget: true
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:37059825
   title: Genotyping, characterization, and imputation of known and novel CYP2A6 structural
     variants using SNP array data.
@@ -773,21 +754,6 @@
   publisher: Kidney international
   date: '2014-01-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24429401
-  term: Pouget, JG[Author]
-  jennie-pouget: true
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:23563948
-  title: Characterization of bla(SHV) genes on plasmids from Escherichia coli and
-    Salmonella enterica isolates from Canadian food animals (2006-2007).
-  authors:
-  - Jennie G Pouget
-  - Fiona J Coutinho
-  - Richard J Reid-Smith
-  - Patrick Boerlin
-  publisher: Applied and environmental microbiology
-  date: '2013-04-05'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/23563948
   term: Pouget, JG[Author]
   jennie-pouget: true
   plugin: pubmed.py
